@@ -20,7 +20,7 @@ Welcome to the official GitHub repository of MM's Coaching Centre! Guided by a p
 
 ## About Us
 
-MM's Coaching Centre is a dedicated educational initiative led by a single teacher with a vision to support students across multiple academic levels. We cater to learners from primary education (Grade 1) through Matriculation, as well as Commerce students in their early college years, including BCom. Our goal is to provide structured, accessible, and high-quality resources to help students excel.
+MM's Coaching Centre is a dedicated educational initiative led by a teacher with a vision to support students across multiple academic levels. We cater to learners from primary education (Grade 1) through Matriculation, as well as Commerce students in their early college years, including BCom. Our goal is to provide structured, accessible, and high-quality resources to help students excel.
 
 ---
 
