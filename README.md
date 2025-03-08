@@ -46,7 +46,7 @@ We proudly serve students from the following respected schools and colleges:
 
 Have questions or need assistance? Reach out to us at:  
 📧 **mm.coaching.edu@gmail.com**  
-🌐 **[mm.netlify.app](https://mm.netlify.app)**  
+🌐 **[mmcoaching.netlify.app](https://mmcoaching.netlify.app)**  
 
 ---
 
